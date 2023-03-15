@@ -1,0 +1,12 @@
+/*----------------
+IMPORT BOOTSTRAP
+----------------*/
+@import "/node_modules/bootstrap/scss/bootstrap";
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+html{
+    scrollbar-width: none;
+}
